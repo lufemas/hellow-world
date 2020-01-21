@@ -1,0 +1,41 @@
+body{
+    background-color:#fdffe0;
+    text-align: center;
+}
+
+h1{
+    color:#536F50;
+    font-size: 5em;
+}
+
+strong {
+    font-size: 3em;
+    color: 	#86a5a9;
+}
+
+p {
+    color:#fdffe0;
+    font-weight: bold;
+    font-size: 6em;
+}
+
+a{
+    color:#fdffe0;
+    font-weight: bold;
+
+}
+
+p:hover {
+    color: #e13939;
+}
+
+em{
+    padding: 0.5em;
+   
+}
+
+em:hover, a:hover{
+    border-radius: 30%;
+    background-color: #424242;
+    color: #92c582;
+}
