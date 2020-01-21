@@ -35,7 +35,7 @@ em{
 }
 
 em:hover, a:hover{
-    border-radius: 30%;
-    background-color: #424242;
+    /* border-radius: 30%;
+    background-color: rgba(50 50, 50, 100); */
     color: #92c582;
 }
